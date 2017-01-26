@@ -9,5 +9,5 @@ services:
       - PUID=1000
       - PGID=1000
     volumes:
-      - ~/workspace/arthurlm44.com/:/home/jekyll
+      - ~/workspace/arthurlm44.com/:/home/jekyll/
 
